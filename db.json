@@ -1,0 +1,25 @@
+{
+    "users": [
+        {
+            "id": "guyong",
+            "name": "guyong",
+            "password": "guyong123"
+        },
+        {
+            "id": "guanjiayu ",
+            "name": "官嘉宇",
+            "password": "guanjiayu123"
+        }
+    ],
+    "config": {
+        "sitename": "WeNote",
+        "theme": "daytime",
+        "lang": "zh-cn"
+    },
+    "notes": [
+        {
+            "id": "0000",
+            "title": "untitled"
+        }
+    ]
+}
